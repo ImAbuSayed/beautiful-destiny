@@ -15,7 +15,7 @@
 | **Written On** | May 28, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/beautiful-destiny/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Official Music Licensing for Beautiful Destiny](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/beautiful-destiny/) |
+| **Get License** | [Obtain a Music License for Beautiful Destiny](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/beautiful-destiny/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> I feel the fire when your fingers trace my skin
+> A slow surrender to the mood that we are in
+> The midnight shadows dance across the wooden floor
+> I know my heart has never wanted something more
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
